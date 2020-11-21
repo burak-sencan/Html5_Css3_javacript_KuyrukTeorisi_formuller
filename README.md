@@ -1,5 +1,5 @@
 # kuyruk-teorisi-formüller
-Sadece lambda ve mu değeri üzerinden onlarca formülün oldugu bu saçma ders için yapılmıştır.
+Sadece lambda ve mu değeri üzerinden onlarca formülün oldugu bu saçma dersin online sınavı için yapılmıştır.
 
 Not bu seçmeli dersi alacak çömezlere duyrulur ALMAYIN...
 Not 2 diğer sistem modelleri eklenecektir...

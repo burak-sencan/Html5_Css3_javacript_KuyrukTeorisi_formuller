@@ -1,0 +1,15 @@
+/* CSS Document */
+
+p{
+    display: inline;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+.kutu{
+
+    width: 100%px;
+    height: 100%px;
+    background-color: lightgray;
+    margin-top: 10px;
+    padding: 10px;
+    
+}

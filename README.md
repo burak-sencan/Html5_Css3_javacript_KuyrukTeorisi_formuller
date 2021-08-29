@@ -1,6 +1,6 @@
 # kuyruk-teorisi-formüller
 
-Kuyruk teorisi dersinde kullanılan förmüller için yaptıgım web sayfaları.
+Kuyruk teorisi dersinde kullanılan formüller için yaptıgım web sayfaları.
 html5 css3 ile hazırladığım sayfalarda hesaplama işlemleri için javascript kullanılmıştır. 
 
 ![sil](https://user-images.githubusercontent.com/74815003/129202222-389eaac6-185c-4d6e-84e7-cf9c202ef253.png)
